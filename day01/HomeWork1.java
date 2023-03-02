@@ -4,5 +4,6 @@ public class HomeWork1 {
 		System.out.println("姓名：动力节点");
 		System.out.println("生日：2009年5月1日");
 		System.out.println("家庭住址：北京市大兴区亦庄大族企业湾10号楼A座三层");
+		System.out.println("welcome new branch!");
 		}
 	}
