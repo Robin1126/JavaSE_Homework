@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day23/Homework01/Homework01.iml" filepath="$PROJECT_DIR$/day23/Homework01/Homework01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23/Homework02/Homework02.iml" filepath="$PROJECT_DIR$/day23/Homework02/Homework02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/day22/Homework1/Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/Homework2/Homework2.iml" filepath="$PROJECT_DIR$/day22/Homework2/Homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/Homework3/Homework3.iml" filepath="$PROJECT_DIR$/day22/Homework3/Homework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSEHomework.iml" filepath="$PROJECT_DIR$/JavaSEHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19/day19.iml" filepath="$PROJECT_DIR$/day19/day19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20/day20.iml" filepath="$PROJECT_DIR$/day20/day20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21/day21.iml" filepath="$PROJECT_DIR$/day21/day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22/day22.iml" filepath="$PROJECT_DIR$/day22/day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23/day23.iml" filepath="$PROJECT_DIR$/day23/day23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24/day24.iml" filepath="$PROJECT_DIR$/day24/day24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25/day25.iml" filepath="$PROJECT_DIR$/day25/day25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26/day26.iml" filepath="$PROJECT_DIR$/day26/day26.iml" />
+    </modules>
+  </component>
+</project>

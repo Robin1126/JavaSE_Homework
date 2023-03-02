@@ -1,0 +1,75 @@
+day19 课堂笔记
+
+1. 关于Java的集成开发环境IDE:
+	eclipse, ItelliJ IDEA等
+	其中ItelliJ IDEA是主流的
+	不要让一个工具把你难住了，不要怕英语
+
+2. 安装IDEA工具(已经成功完成破解)
+	
+3. IDEA工具的使用：
+	第一步：第一次打开的时候会弹出一个窗口（import idea setting）
+	导入idea设置
+
+	第二步：会让你接受条款，接受即可
+	
+	第三步：数据共享，不发送
+
+	第六步：弹出welcome窗口，点击creat new project
+			
+			在IDEA当中一个project相当于eclipse当中的一个workspace
+
+	第七步：点击emptyproject
+
+	第八步：起名字javase 存到~\Desktop\java
+
+	第九步：取消掉每日提示
+
+	第十步：在空的工程下面新建module模块，IDEA中模块相当于eclipse中的project
+			eclipse的组织方式 workspace -> project
+			IDEA的组织方式 project-> module
+
+			在file菜单的new上面module
+	
+	第十一步：给module起一个名字，chapter15就创建号了
+
+	第十二步：在src右键新建代码并运行
+
+4. 关于IDEA工具的快捷键以及一些简单的设置
+	4.1 字体设置
+		file -> settings -> font 设置样式和大小
+
+	4.2 快速生成main方法 用psvm即可，main也可以
+
+	4.3 快速生成System.out.println() 用sout
+
+	4.4 注意：IDEA是自动保存，不需要ctrl+s
+
+	4.5 删除行 ctrl+y
+
+	4.6 运行代码
+		右键run或者点击左侧的绿色箭头
+
+	4.7 左侧的栏用左箭头关闭，右箭头展开，上下箭头调整选项
+
+	4.8 IDEA中退出任何窗口都可以使用esc键
+
+	4.9 任何新增的快捷键都是 alt + insert 德语键盘是 alt+Einfg
+		可以快速构造各种东西，包括方法重写
+
+	4.10 窗口变大 ctrl + shift + f12
+
+	4.11 切换java程序 alt+左箭头或者右箭头
+
+	4.12 快速运行 ctrl + shift + f10
+
+	4.13 各种窗口用 alt+数字 改变
+
+	4.14 提示方法的参数 ctrl + p
+
+	4.15 多行注释是 ctrl+shift+/
+
+	4.16 定位方法 光标停到某个单词下面 按ctrl，点击跳转
+
+	4.17 alt + enter 光标在红线下面，自动纠错
+
